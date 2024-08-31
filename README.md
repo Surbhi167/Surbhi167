@@ -1,4 +1,4 @@
-//Login page with js validation 
+
 
 <!DOCTYPE html>
 <html lang="en">
